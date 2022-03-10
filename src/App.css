@@ -1,8 +1,12 @@
 @import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
+
+* {
+  font-family: 'NanumSquare';
+}
+
 .App {
   text-align: center;
   user-select: none;
-  font-family: 'NanumSquare';
 }
 
 .App-header {
